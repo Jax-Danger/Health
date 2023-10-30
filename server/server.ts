@@ -1,3 +1,1 @@
-RegisterCommand('cc', (source: number, args: string[]) => {
-	emitNet('chat:clear', -1);
-}, false)
+console.log('Server Side');
