@@ -1,2 +1,2 @@
-# FiveM Backup
-These are just a backup of my scripts written in TypeScript.
+# FiveM Health Script
+This is a simple health script written in TypeScript.
